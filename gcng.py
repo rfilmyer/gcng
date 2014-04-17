@@ -1,8 +1,3 @@
-"""things to do
-open files
-convert into lists
-pick randomly"""
-
 import random
 
 def OpenAsCleanList(filename):
