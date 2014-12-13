@@ -1,5 +1,3 @@
-import random
-
 def OpenAsCleanList(filename):
     '''Opens a file and converts into a list.
     Ignores comments preceded with "#" and blank lines
@@ -15,7 +13,9 @@ def OpenAsCleanList(filename):
                 list.append(li)
         return list
 
-first = OpenAsCleanList("first.txt")
-second = OpenAsCleanList("second.txt")
-
-print(random.choice(first) + ' ' + random.choice(second))
+if __name__ == '__main__':
+    import random
+    
+    first = OpenAsCleanList("first.txt")
+    second = OpenAsCleanList("second.txt")
+    print(random.choice(first) + ' ' + random.choice(second))
