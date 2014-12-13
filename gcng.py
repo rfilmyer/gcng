@@ -1,3 +1,5 @@
+import random
+
 def open_as_clean_list(filename):
     '''Opens a file and converts into a list.
     Ignores comments preceded with "#" and blank lines
@@ -14,8 +16,6 @@ def open_as_clean_list(filename):
         return list
 
 if __name__ == '__main__':
-    import random
-    
     first = open_as_clean_list("first.txt")
     second = open_as_clean_list("second.txt")
     print(random.choice(first) + ' ' + random.choice(second))
