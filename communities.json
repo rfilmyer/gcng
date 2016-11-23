@@ -1,29 +1,35 @@
 {"names": ["first", "second"],
-"first": [
-"Indian River", "Olympia", "Florida", 
-"Gulf Coast", "Sun Coast", "Treasure Coast", 
-"Gold Coast", "Palm Coast", 
-"Venetian", "Palermo", "Toscana", "Spanish", "Treviso", 
-"Windsor", "Buckingham", "Heathrow", "Riviera", "Sonoma", 
-"Osprey", "Pelican", "Quail", "Heron", "Snowbird", 
-"Pompano", "Tarpon", "Sailfish", "Swordfish", "Gator", 
-"Palm", "Palmetto", "Orchid", "Magnolia", "Laurel", 
-"Lakewood", "Stonelake", 
-"River", "Harbor", 
-"Majestic", "Golden", "Whispering", "Regal", "Grand", "Old", 
-"Paradise", "Silver", "Heritage", "Sunrise", "Sunset", "Bella", "Glen"
-],
-"second": [
-"Palms", "Springs", "Green", 
-"on the Green", "Lakes", "Oaks", 
-"Willows", "Woods", "Breeze", 
-"Park", "Grove", "Ridge", 
-"Spring", "Springs", "Lakes", 
-"Creek", "Bay", "Falls", 
-"Sound", "Greene", "Pointe", 
-"Trace", "Preserve", "Reserve", 
-"Isle", "Villas", "Villages", 
-"Vista", "Landing", "Estates"
-],
-"taglines": ["An exclusive 55+ community"]
+	"first": [
+		"Indian River", "Olympia", "Florida", 
+		"Gulf Coast", "Sun Coast", "Treasure Coast", 
+		"Gold Coast", "Palm Coast", 
+		"Venetian", "Palermo", "Toscana", "Spanish", "Treviso", 
+		"Windsor", "Buckingham", "Heathrow", "Riviera", "Sonoma", 
+		"Osprey", "Pelican", "Quail", "Heron", "Snowbird", 
+		"Pompano", "Tarpon", "Sailfish", "Swordfish", "Gator", 
+		"Palm", "Palmetto", "Orchid", "Magnolia", "Laurel", 
+		"Lakewood", "Stonelake", 
+		"River", "Harbor", 
+		"Majestic", "Golden", "Whispering", "Regal", "Grand", "Old", 
+		"Paradise", "Silver", "Heritage", "Sunrise", "Sunset", "Bella", "Glen"
+	],
+	"second": [
+		"Palms", "Springs", "Green", 
+		"on the Green", "Lakes", "Oaks", 
+		"Willows", "Woods", "Breeze", 
+		"Park", "Grove", "Ridge", 
+		"Spring", "Springs", "Lakes", 
+		"Creek", "Bay", "Falls", 
+		"Sound", "Greene", "Pointe", 
+		"Trace", "Preserve", "Reserve", 
+		"Isle", "Villas", "Villages", 
+		"Vista", "Landing", "Estates"
+	],
+	"taglines": [
+		"An Exclusive 55+ Community.",
+		"Luxury. Elegance. Grace.",
+		"Seconds from the Beach.",
+		"Get Away from it All, without Getting Away from it All."
+
+	]
 }
