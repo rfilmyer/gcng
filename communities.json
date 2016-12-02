@@ -31,5 +31,8 @@
 		"Seconds from the Beach.",
 		"Get Away from it All, without Getting Away from it All."
 
+	],
+	"backgrounds": [
+		"/background/test.jpg"
 	]
 }

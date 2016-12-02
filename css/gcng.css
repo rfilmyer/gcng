@@ -1,0 +1,13 @@
+/* Text */
+h1 {
+	padding: 0 50%; /* How do you actually center? */
+	font-family: serif;
+}
+
+h2 {
+	padding: 0 50%;
+	font-family: cursive;
+}
+
+
+/* To Do: */
