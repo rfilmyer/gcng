@@ -23,6 +23,6 @@ function replaceCommunityName(nameList) {
 const oReq = new XMLHttpRequest();
 oReq.responseType = "json"
 oReq.addEventListener("load", () => replaceCommunityName(oReq.response));
-oReq.open("GET", "/communities.json");
+oReq.open("GET", "./communities.json");
 oReq.send();
 
