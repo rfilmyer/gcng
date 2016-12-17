@@ -1,12 +1,42 @@
+html {
+	background-size: cover;
+}
+
+#inner-container {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+
+/* Positioning */
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+}
+#outer-container {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
 /* Text */
 h1 {
-	padding: 0 50%; /* How do you actually center? */
-	font-family: serif;
+	text-align: center;
+	font-family: 'Tangerine', cursive;
+	font-size: 10vmin;
+	margin: 0;
 }
 
 h2 {
-	padding: 0 50%;
-	font-family: cursive;
+	text-align: center;
+	font-family: 'Fanwood Text', serif;
+	font-size: 6vmin;
+	margin: 0;
 }
 
 
