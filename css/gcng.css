@@ -1,0 +1,43 @@
+html {
+	background-size: cover;
+}
+
+#inner-container {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+
+/* Positioning */
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+}
+#outer-container {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+/* Text */
+h1 {
+	text-align: center;
+	font-family: 'Tangerine', cursive;
+	font-size: 10vmin;
+	margin: 0;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Fanwood Text', serif;
+	font-size: 6vmin;
+	margin: 0;
+}
+
+
+/* To Do: */

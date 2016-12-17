@@ -1,0 +1,49 @@
+{"names": ["first", "second"],
+	"first": [
+		"Indian River", "Olympia", "Florida", 
+		"Gulf Coast", "Sun Coast", "Treasure Coast", 
+		"Gold Coast", "Palm Coast", 
+		"Venetian", "Palermo", "Toscana", "Spanish", "Treviso", 
+		"Windsor", "Buckingham", "Heathrow", "Riviera", "Sonoma", 
+		"Osprey", "Pelican", "Quail", "Heron", "Snowbird", 
+		"Pompano", "Tarpon", "Sailfish", "Swordfish", "Gator", 
+		"Palm", "Palmetto", "Orchid", "Magnolia", "Laurel", 
+		"Lakewood", "Stonelake", 
+		"River", "Harbor", 
+		"Majestic", "Golden", "Whispering", "Regal", "Grand", "Old", 
+		"Paradise", "Silver", "Heritage", "Sunrise", "Sunset", "Bella", "Glen"
+	],
+	"second": [
+		"Palms", "Springs", "Green", 
+		"on the Green", "Lakes", "Oaks", 
+		"Willows", "Woods", "Breeze", 
+		"Park", "Grove", "Ridge", 
+		"Spring", "Springs", "Lakes", 
+		"Creek", "Bay", "Falls", 
+		"Sound", "Greene", "Pointe", 
+		"Trace", "Preserve", "Reserve", 
+		"Isle", "Villas", "Villages", 
+		"Vista", "Landing", "Estates"
+	],
+	"taglines": [
+		"An Exclusive 55+ Community.",
+		"Luxury. Elegance. Grace.",
+		"Seconds from the Beach.",
+		"Get Away from it All, without Getting Away from it All."
+
+	],
+	"backgrounds": [
+		"/background/test.jpg",
+		"/background/1.jpg",
+		"/background/2.jpg",
+		"/background/3.jpg",
+		"/background/4.jpg",
+		"/background/5.jpg",
+		"/background/6.jpg",
+		"/background/7.jpg",
+		"/background/8.jpg",
+		"/background/9.jpg",
+		"/background/11.jpg",
+		"/background/12.jpg"
+	]
+}
